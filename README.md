@@ -1,4 +1,4 @@
-## Hi, I'm Pat. you've caught me in the middle of making a huge life transition.
+## Hi, I'm Pat. You've caught me in the middle of making a huge life transition.
 
 
 ![photo of me](https://i.imgur.com/0HDiCn8.jpg)
