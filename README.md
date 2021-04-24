@@ -8,7 +8,7 @@ My Github will show you the evolution of my work in the last year, starting with
 ### What I know
 
 More than any specific framework or language, I'm here for the journey:
-- I'm voraciously curious, so no matter how naive I maybe on a given topic I know I'll work my hardest to learn and understand the task in front of me
+- I'm really curious, so no matter how naive I maybe on a given topic I know I'll work my hardest to learn and understand the task in front of me
 - Finding common bonds inspires me, I know I'll be happy if I'm bringing the world a little unity.
 - Discomfort feels comfortable, I know I find the most value in solving problems.
 
