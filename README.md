@@ -5,14 +5,6 @@
 
 My Github will show you the evolution of my work in the last year, starting with the Jupyter notebooks I used during my time as a trends and data reporter for a newspaper in South Dakota.
 
-### What I know
-
-More than any specific framework or language, I'm here for the journey:
-- I'm naturally curious, so no matter how naive I maybe on a given topic I know I'll work my hardest to learn and understand the task in front of me
-- Finding common bonds inspires me, I know I'll be happy if I'm bringing the world a little unity.
-- Discomfort feels comfortable, I know I find the most value in solving problems.
-
-
 ### My current tech stack:
 
 
