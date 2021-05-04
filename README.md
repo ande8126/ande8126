@@ -3,7 +3,7 @@
 
 ![photo of me](https://i.imgur.com/0HDiCn8.jpg)
 
-My Github will show you the evolution of my work in the last year, starting with the Jupyter notebooks I used during my time as a trends and data reporter for a newspaper in South Dakota.
+My Github will show you the evolution of my work in the last year, starting with the Jupyter notebooks I used during my time as a data reporter for a newspaper in South Dakota.
 
 ### My current tech stack:
 
