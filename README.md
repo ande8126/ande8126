@@ -22,8 +22,7 @@ More than any specific framework or language, I'm here for the journey:
 - Express
 - Postgresql
 - HTML
-- CSS'
-- 
+- CSS
 <!--
 **ande8126/ande8126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
