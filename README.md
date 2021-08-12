@@ -1,8 +1,5 @@
 ## Hi, I'm Pat. You've caught me in the middle of making a huge life transition.
 
-
-![photo of me](https://i.imgur.com/0HDiCn8.jpg)
-
 My Github will show you the evolution of my work in the last year, starting with the Jupyter notebooks I used during my time as a data reporter for a newspaper in South Dakota.
 
 ### My current tech stack:
