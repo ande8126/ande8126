@@ -1,10 +1,14 @@
-## Hi, I'm Pat. You've caught me in the middle of making a huge life transition.
+## Hi, I'm Pat, a software developer with 3+ years of professional experience and not a lot of time for Githubbing
 
-My Github will show you the evolution of my work in the last year, starting with the Jupyter notebooks I used during my time as a data reporter for a newspaper in South Dakota.
+My Github is mostly old schoolwork from the coding bootcamp I did in 2021, plus several curiosity-driven clones and forks. You won't see the bulk of my work here, but it does show you the evolution of my early training in Javascript and React.
 
-### My current tech stack:
+### My current stack;
+- C# | .NET
+- SQL
+- OracleDB
+- MongoDB
 
-
+### My old stack:
 - React/Redux
 - Javascript
 - Node.js
