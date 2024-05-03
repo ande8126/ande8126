@@ -2,7 +2,7 @@
 
 My Github is mostly old schoolwork from the coding bootcamp I did in 2021, plus several curiosity-driven clones and forks. You won't see the bulk of my work here, but it does show you the evolution of my early training in Javascript and React.
 
-### My current stack;
+### My current stack:
 - C# | .NET
 - SQL
 - OracleDB
