@@ -4,7 +4,8 @@ My Github is mostly old schoolwork from the coding bootcamp I did in 2021, plus 
 
 ### My current stack:
 - C# | .NET
-- SQL
+- T-SQL
+- SSIS
 - OracleDB
 - MongoDB
 
